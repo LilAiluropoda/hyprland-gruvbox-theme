@@ -6,7 +6,7 @@ Configuration files for Hyprland & Waybar.
 
 ## Screenshot
 
-![Alt text](screenshots/'Untitled1.png')
+![Alt text](<screenshots/'Untitled(1).png'>)
 ![Alt text](screenshots/Untitled.png)
 
 ## Installation

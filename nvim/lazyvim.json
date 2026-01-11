@@ -5,9 +5,8 @@
     "lazyvim.plugins.extras.coding.yanky",
     "lazyvim.plugins.extras.dap.core",
     "lazyvim.plugins.extras.formatting.prettier",
+    "lazyvim.plugins.extras.lang.java",
     "lazyvim.plugins.extras.lang.json",
-    "lazyvim.plugins.extras.lang.python",
-    "lazyvim.plugins.extras.lang.python-semshi",
     "lazyvim.plugins.extras.lang.tailwind",
     "lazyvim.plugins.extras.lang.typescript",
     "lazyvim.plugins.extras.linting.eslint",
@@ -17,7 +16,7 @@
     "lazyvim.plugins.extras.util.mini-hipatterns"
   ],
   "news": {
-    "NEWS.md": "4964"
+    "NEWS.md": "11866"
   },
-  "version": 4
+  "version": 8
 }
